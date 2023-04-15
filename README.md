@@ -3,7 +3,7 @@
 
 Map Shipment de Call Of Duty reproduit sur Fivem
 
-Coordonnées : 
+Coordonnées : x = 932.63940429688, y = -3177.6838378906, z = 9.5878553390503
 
 Réalisé par Burgy Developpement 
 
